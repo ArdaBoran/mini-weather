@@ -12,6 +12,3 @@ Add those lines to in your <head></head> tags.
 
 ## License
 MIT
-
-## Author
-rimekod
